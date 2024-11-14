@@ -1,0 +1,11 @@
+[**] [1:1000001:1] ICMP Ping detected [**]
+[Priority: 3]
+11/14-15:35:05.514576 IP 192.168.1.5 -> 192.168.64.128
+ICMP TTL:64 TOS:0x0 ID:48721 IpLen:20 DgmLen:84
+Type:8 Code:0 ID:60048 Seq:1  ECHO
+
+[**] [1:1000002:1] SSH brute force attempt [**]
+[Priority: 2]
+11/14-15:36:22.362655 IP 192.168.1.5 -> 192.168.64.128
+TCP TTL:64 TOS:0x0 ID:48750 IpLen:20 DgmLen:60
+Seq: 0xABCD1234  Ack: 0x0  Win: 0x2000  TcpLen: 20
